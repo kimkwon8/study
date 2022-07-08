@@ -3,8 +3,8 @@
 - Contents
 
   - Text
-  - Media
-    - Image, Video, Audio
+  - Media - Image, Video, Audio
+    ddd
 
 - Structure
   - Semantic : 의미있는 구조
@@ -209,7 +209,6 @@
 - span
   - inline
 
-
 ## 경로 지정 방식
 
 - 파일 위치, 인터넷 주소(URL)
@@ -254,6 +253,7 @@ image.com
 ## 강조 태그, 기타 태그
 
 - 텍스트 특정 부분 강조
+
   - strong : 강한 강조
   - em(phasize) : 일반 강조
   - mark : html5 버전, block 강조
