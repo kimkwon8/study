@@ -4,7 +4,7 @@
 
   - Text
   - Media - Image, Video, Audio
-    ddd
+    dddd
 
 - Structure
   - Semantic : 의미있는 구조
