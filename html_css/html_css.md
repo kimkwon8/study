@@ -3,8 +3,9 @@
 - Contents
 
   - Text
-  - Media - Image, Video, Audio
-    dddd
+  - Media
+    - Image, Video, Audio
+      dddd
 
 - Structure
   - Semantic : 의미있는 구조
